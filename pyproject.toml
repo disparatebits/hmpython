@@ -1,0 +1,21 @@
+[project]
+name = "hmpython"
+version = "0.1.0"
+description = "hypermodern python project"
+license = "MIT"
+authors = [
+    {name = "Disparate Bits <disparatebits@proton.me>"}
+]
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+]
+homepage = "https://github.com/disparatebits/hmpython"
+repository = "https://github.com/disparatebits/hmpython"
+keywords = ["hypermodern"]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"
+
